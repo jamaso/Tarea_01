@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea_01</string>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <!--Editext-->
+    <string name="etNombre">Nombre (Test Profesor "Introducir javi")</string>
+    <string name="clave">Clave (Test Profe: "Introducir 1234"</string>
+    <string name="error_campo_obligatorio">campo obligatorio</string>
+    <string name="error_campo_numerico">campo numerico</string>
+    <string name="error_valor_4_digitos">Introducir 4 digitos</string>
+    <string name="btnLogin">Login</string>
+    <string name="Intentos">5 Intentos</string>
+</resources>
